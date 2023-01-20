@@ -13,6 +13,3 @@ Este repositório de estudo foi criado com o intuito de desenvolver minhas habil
 2. [Package](https://github.com/ramonmello/dart-playground/tree/main/package)  
 3. [Server-shelf](https://github.com/ramonmello/dart-playground/tree/main/server-shelf)  
 4. [Web](https://github.com/ramonmello/dart-playground/tree/main/web) 
-
-<!-- Images -->
-[logo_dart]: https://raw.githubusercontent.com/ramonmello/dart-playground/main/assets/logo-dart.svg
