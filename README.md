@@ -5,7 +5,7 @@ Além disso, Dart também pode ser usado para desenvolver aplicativos web, com s
 
 Este repositório de estudo foi criado com o intuito de desenvolver minhas habilidades na linguagem Dart e registrar exemplos de aplicação da linguagem para uso futuro em meus projetos.
 ## Index  
-1. [Console](https://github.com/ramonmello/dart-playground/console/README.md) 
-2. [Package](https://github.com/ramonmello/dart-playground/package/README.md)  
-3. [Server-shelf](https://github.com/ramonmello/dart-playground/server-shelf/README.md)  
-4. [Web](https://github.com/ramonmello/dart-playground/web/README.md) 
+1. [Console](https://github.com/ramonmello/dart-playground/tree/main/console) 
+2. [Package](https://github.com/ramonmello/dart-playground/tree/main/package)  
+3. [Server-shelf](https://github.com/ramonmello/dart-playground/tree/main/server-shelf)  
+4. [Web](https://github.com/ramonmello/dart-playground/tree/main/web) 
