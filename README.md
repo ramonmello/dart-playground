@@ -1,3 +1,7 @@
+<div align="center">
+<img style="align-self: center" src="https://raw.githubusercontent.com/ramonmello/dart-playground/main/assets/logo-dart.svg" alt="Logo Dart">
+</div>
+
 # Dart Playground  
 Dart é uma linguagem de programação criada pela Google, com suporte para desenvolvimento web, mobile e desktop.
 Ela é usada para desenvolver aplicativos para o sistema operacional Android e para o sistema operacional iOS através do framework Flutter.
@@ -9,3 +13,6 @@ Este repositório de estudo foi criado com o intuito de desenvolver minhas habil
 2. [Package](https://github.com/ramonmello/dart-playground/tree/main/package)  
 3. [Server-shelf](https://github.com/ramonmello/dart-playground/tree/main/server-shelf)  
 4. [Web](https://github.com/ramonmello/dart-playground/tree/main/web) 
+
+<!-- Images -->
+[logo_dart]: https://raw.githubusercontent.com/ramonmello/dart-playground/main/assets/logo-dart.svg
