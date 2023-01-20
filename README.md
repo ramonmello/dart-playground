@@ -9,7 +9,7 @@ This study repository was created with the intent of developing my skills in the
 
 ### Languages
 
-[<img src='https://img.shields.io/badge/view%20in-pt--BR-green' alt='readme em portugues' />](Readme.pt-BR.md)
+[<img src='https://img.shields.io/badge/view%20in-pt--BR-green' alt='readme em portugues' />](README.pt-BR.md)
 
 ### Index  
 1. [Console](https://github.com/ramonmello/dart-playground/tree/main/console) 
