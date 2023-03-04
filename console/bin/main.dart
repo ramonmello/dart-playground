@@ -1,11 +1,13 @@
 import 'dart:io';
 import 'package:console/application/services/http_consume.dart' as http_consume;
+import 'package:console/application/services/body_mass_index.dart';
 import 'package:console/infra/http/dio_http_client.dart';
 import 'package:console/infra/http/http_http_client.dart';
 
 const String promptMessage = "Select an option:\n"
     "(1) Run Http call with Http\n"
     "(2) Run Http call with Dio\n"
+    "(3) Run body mass index\n"
     "(exit) To exit";
 const String invalidInputMessage =
     "Please select one of the available options by typing the corresponding number.";
@@ -35,6 +37,9 @@ void main(List<String> args) async {
       case '2':
         final data = await http_consume.consume(DioHttpClient());
         print(data);
+        break;
+      case '3':
+        print(bodyMassIndex(height: 1.89, weight: 97.5));
         break;
       case 'exit':
         continue;
